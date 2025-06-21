@@ -1,4 +1,4 @@
-# 🌟 CodeResite Assignment - Git & GitHub Practice
+# 🌟 CodeResite Assignment-1 - Git & GitHub Practice
 
 Welcome to the **CodeResite Assignment** 👨‍🏫  
 This task is designed to help you practice Git, GitHub, and basic coding workflows.
