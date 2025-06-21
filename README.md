@@ -123,7 +123,7 @@ git push origin main
 
 ## 📅 Deadline
 
-**Submit your pull request before: [Insert Deadline Date]**
+**Submit your pull request before: 30 June 2025**
 
 ---
 
